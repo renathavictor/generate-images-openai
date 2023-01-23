@@ -8,7 +8,7 @@
 
 ### Generate OpenIA Key
 
-To create an OpenAI API key, create your account and go to the [page](https://beta.openai.com/account/api-keys).
+To create an OpenAI API key, create your account and go to this [page](https://beta.openai.com/account/api-keys).
 
 ### To run
 
