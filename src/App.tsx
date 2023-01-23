@@ -22,7 +22,6 @@ const App = () => {
     }
     setIsLoading(true)
     const urlsData = await generateImage(prompt)
-    console.log('urls ', urlsData)
     setImages(urlsData)
     setIsLoading(false)
   }
