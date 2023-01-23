@@ -1,0 +1,8 @@
+.input-container {
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  height: 32px;
+  margin: 20px 0;
+  padding: 4px 8px;
+  width: 250px;
+}
